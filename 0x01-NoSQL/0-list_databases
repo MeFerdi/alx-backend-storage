@@ -1,4 +1,2 @@
 // Listing datatbases
-
-db.adminCommand({ listDatabases: 1 });
-s
+show dbs
